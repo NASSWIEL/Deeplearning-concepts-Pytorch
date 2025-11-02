@@ -1,4 +1,4 @@
-# Deep Learning Techniques
+# DeepDiveAI
 
 A comprehensive collection of practical implementations and tutorials for deep learning using PyTorch.
 
