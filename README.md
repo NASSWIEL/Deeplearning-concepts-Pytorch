@@ -1,6 +1,6 @@
 # DeepDiveAI
 
-## About DeepDiveAI
+## About DeepDiveAI (This repository is on progress.)
 
 DeepDiveAI is a hands-on code examples, notebooks, and implementations of various deep learning / ML techniques. 
 
@@ -14,4 +14,3 @@ After 2000 epochs, predictions align closely with actual values, demonstrating e
 
 ![Linear Regression Predictions](assets/prediction_linear_regression.png)
 
-**Note** : This repository is on progress. 
